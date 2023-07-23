@@ -1,0 +1,1908 @@
+Current time: 20:22:54
+ID of trainset 24
+Locomotive 24
+ID: 179, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: GASOLINE, Volume of liquid: 0.0
+ID: 183, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: NORWEGIANCOUPLER
+ID: 184, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 182, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: METHANE, Volume of gas: 18402.64998159735
+ID: 181, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: CHLORINE, Volume of toxic liquid: 0.0, Material of car: ALUMINIUM, Labels -> false
+ID: 180, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: ELECTRICBRAKES
+Path is: Station 6. x-929 y-1268 -> Station 98. x-1034 y-1396 -> Station 44. x-993 y-1268 -> Station 11. x-1219 y-1029 -> Station 3. x-1080 y-1056 -> Station 49. x-953 y-586 -> Station 72. x-1293 y-303 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 4. x-1967 y-2503 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 81. x-3002 y-3363
+Length of whole path is: 9120.798692995824
+
+ID of trainset 25
+Locomotive 25
+ID: 190, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 185, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 189, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 191, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 186, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 187, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 192, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 188, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 14. x-383 y-120 -> Station 15. x-640 y-413 -> Station 49. x-953 y-586 -> Station 11. x-1219 y-1029 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 43. x-3469 y-2668
+Length of whole path is: 9055.412437212457
+
+ID of trainset 10
+Locomotive 10
+ID: 66, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: RADIOACTIVE, Emergency system?: false
+ID: 63, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: RUSSIANCOUPLER
+ID: 68, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 70, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 64, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: CASTIRON, Type of breaks: AIRBREAKS
+ID: 67, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 71, Name: BasicCar, Loaded -> true, Gross weight: 46, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 65, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: PETN, Security level: HIGH
+ID: 69, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: C4, Security level: ULTRAHIGH
+ID: 72, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: DAIRY, Electrical features: []
+Path is: Station 72. x-1293 y-303 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 94. x-3512 y-2582 -> Station 58. x-3815 y-2440
+Length of whole path is: 8115.798333085905
+
+ID of trainset 20
+Locomotive 20
+ID: 149, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 153, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 148, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 150, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 152, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 151, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 147, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 154, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 7. x-325 y-2393 -> Station 56. x-903 y-2470 -> Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 17. x-601 y-2170 -> Station 57. x-241 y-2560 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 38. x-259 y-3058 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306
+Length of whole path is: 8039.794831751653
+
+ID of trainset 4
+Locomotive 4
+ID: 24, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 26, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 23, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 21, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 22, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 25, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 27, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 28, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 29, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 7. x-325 y-2393 -> Station 56. x-903 y-2470 -> Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 38. x-259 y-3058 -> Station 57. x-241 y-2560 -> Station 17. x-601 y-2170 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 7582.570907136927
+
+ID of trainset 12
+Locomotive 12
+ID: 82, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 83, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 86, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 85, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 80, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 84, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 88, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 81, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 87, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 50. x-3912 y-460 -> Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 5078.464197284593
+
+ID of trainset 9
+Locomotive 9
+ID: 59, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 62, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 57, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 58, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 61, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 60, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 21. x-2781 y-779 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029 -> Station 49. x-953 y-586 -> Station 15. x-640 y-413 -> Station 51. x-181 y-758 -> Station 46. x-50 y-618
+Length of whole path is: 3633.477654928429
+
+ID of trainset 7
+Locomotive 7
+ID: 50, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 45, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 46, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 44, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 49, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 47, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 48, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 43, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 40. x-3676 y-1332 -> Station 39. x-3645 y-1009 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029
+Length of whole path is: 3365.5931490617513
+
+ID of trainset 13
+Locomotive 13
+ID: 89, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 93, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 90, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 96, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 91, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 95, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 92, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 94, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 26. x-171 y-3571 -> Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846
+Length of whole path is: 3049.6328756187804
+
+ID of trainset 16
+Locomotive 16
+ID: 115, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 118, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 117, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 122, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 119, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 120, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 116, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 121, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 5. x-3897 y-226 -> Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306
+Length of whole path is: 2856.852705950581
+
+ID of trainset 6
+Locomotive 6
+ID: 42, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: PROPANE, Volume of gas: 25450.473378804847
+ID: 37, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: AMMONIA, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 38, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: DYNAMITE, Security level: ULTRAHIGH
+ID: 39, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: MEAT, Electrical features: [VOLTAGEMONITORING, VENTILATION]
+ID: 40, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: PHARMACEUTICAL, Electrical features: [VOLTAGEMONITORING, COMMUNICATIONDEVICES]
+ID: 41, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 71. x-71 y-3820 -> Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780
+Length of whole path is: 2846.2062698523873
+
+ID of trainset 19
+Locomotive 19
+ID: 144, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 146, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 141, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 142, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 145, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 140, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 143, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+Path is: Station 36. x-2636 y-2343 -> Station 84. x-2300 y-2745 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 2645.8242567377515
+
+ID of trainset 23
+Locomotive 23
+ID: 172, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 175, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 176, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 177, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 174, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 173, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 178, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 89. x-1797 y-1426 -> Station 67. x-2039 y-1034 -> Station 83. x-2404 y-611 -> Station 13. x-2908 y-413 -> Station 100. x-3467 y-624 -> Station 18. x-3635 y-372
+Length of whole path is: 2461.2502129077384
+
+ID of trainset 8
+Locomotive 8
+ID: 51, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 52, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 54, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 53, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 55, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 56, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 25. x-3434 y-2972 -> Station 81. x-3002 y-3363 -> Station 95. x-2860 y-3372 -> Station 66. x-2542 y-3846 -> Station 80. x-2370 y-3780 -> Station 68. x-1779 y-3785 -> Station 85. x-1522 y-3620
+Length of whole path is: 2376.401622615774
+
+ID of trainset 22
+Locomotive 22
+ID: 167, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 163, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 164, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 169, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 166, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 165, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 168, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 170, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 171, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 13. x-2908 y-413 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 54. x-1672 y-151 -> Station 42. x-1998 y-46
+Length of whole path is: 2371.7436443976453
+
+ID of trainset 2
+Locomotive 2
+ID: 11, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 9, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 13, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 10, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 8, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 12, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 14, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 1870.4473038430501
+
+ID of trainset 15
+Locomotive 15
+ID: 108, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 110, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 109, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 114, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 107, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 105, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 111, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 112, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 113, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 106, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 29. x-2362 y-2306 -> Station 99. x-2444 y-1942 -> Station 33. x-2456 y-1399 -> Station 12. x-2699 y-994 -> Station 16. x-3149 y-879
+Length of whole path is: 1853.0237023804307
+
+ID of trainset 3
+Locomotive 3
+ID: 15, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: BUTANE, Volume of gas: 0.0
+ID: 19, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 17, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: DAIRY, Electrical features: [COOLING, VENTILATION]
+ID: 16, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: SOLIDSTEEL, Type of breaks: ELECTRICBRAKES
+ID: 18, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: MILK, Volume of liquid: 73.7864077669903
+ID: 20, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: HYDRAULICBREAKS
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 21
+Locomotive 21
+ID: 162, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 156, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 157, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 160, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 161, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 158, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 155, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 159, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 14
+Locomotive 14
+ID: 97, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 102, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 104, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 98, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 99, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 103, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 100, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 101, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 23. x-3797 y-640 -> Station 100. x-3467 y-624 -> Station 16. x-3149 y-879
+Length of whole path is: 738.001438895225
+
+ID of trainset 11
+Locomotive 11
+ID: 77, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 74, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 76, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 73, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 75, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 79, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 78, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 7. x-325 y-2393
+Length of whole path is: 687.9580991595685
+
+ID of trainset 17
+Locomotive 17
+ID: 128, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: PROPANE, Volume of gas: 0.0
+ID: 131, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: HAZARDOUS, Emergency system?: false
+ID: 123, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: OLIVEOIL, Volume of liquid: 0.0
+ID: 126, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: MILK, Volume of liquid: 0.0
+ID: 125, Name: ExplosivesCar, Loaded -> false, Gross weight: 19, Type of cargo: null, Security level: LOW
+ID: 130, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: ETHANE, Volume of gas: 20527.13687494868
+ID: 127, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: MEAT, Electrical features: [LIGHTING]
+ID: 124, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: INCONEL, Labels -> false
+ID: 132, Name: LiquidToxicCar, Loaded -> true, Gross weight: 51, Type of toxic liquid: BENZENE, Volume of toxic liquid: 19.318181818181817, Material of car: ALUMINIUM, Labels -> true
+ID: 129, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 81. x-3002 y-3363 -> Station 25. x-3434 y-2972
+Length of whole path is: 582.6705758831486
+
+ID of trainset 18
+Locomotive 18
+ID: 133, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 136, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 135, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 138, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 134, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 137, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 139, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 87. x-1841 y-1881 -> Station 89. x-1797 y-1426
+Length of whole path is: 457.1225218691374
+
+ID of trainset 1
+Locomotive 1
+ID: 1, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 2, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 5, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 7, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 4, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 3, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 6, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 9. x-3637 y-3645 -> Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+ID of trainset 5
+Locomotive 5
+ID: 32, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 30, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 33, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 35, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 31, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 34, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 36, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 9. x-3637 y-3645 -> Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+Current time: 20:22:59
+ID of trainset 24
+Locomotive 24
+ID: 179, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: GASOLINE, Volume of liquid: 0.0
+ID: 183, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: NORWEGIANCOUPLER
+ID: 184, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 182, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: METHANE, Volume of gas: 18402.64998159735
+ID: 181, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: CHLORINE, Volume of toxic liquid: 0.0, Material of car: ALUMINIUM, Labels -> false
+ID: 180, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: ELECTRICBRAKES
+Path is: Station 98. x-1034 y-1396 -> Station 44. x-993 y-1268 -> Station 11. x-1219 y-1029 -> Station 3. x-1080 y-1056 -> Station 49. x-953 y-586 -> Station 72. x-1293 y-303 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 4. x-1967 y-2503 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 81. x-3002 y-3363
+Length of whole path is: 9120.798692995824
+
+ID of trainset 25
+Locomotive 25
+ID: 190, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 185, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 189, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 191, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 186, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 187, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 192, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 188, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 14. x-383 y-120 -> Station 15. x-640 y-413 -> Station 49. x-953 y-586 -> Station 11. x-1219 y-1029 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 43. x-3469 y-2668
+Length of whole path is: 9055.412437212457
+
+ID of trainset 10
+Locomotive 10
+ID: 66, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: RADIOACTIVE, Emergency system?: false
+ID: 63, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: RUSSIANCOUPLER
+ID: 68, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 70, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 64, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: CASTIRON, Type of breaks: AIRBREAKS
+ID: 67, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 71, Name: BasicCar, Loaded -> true, Gross weight: 46, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 65, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: PETN, Security level: HIGH
+ID: 69, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: C4, Security level: ULTRAHIGH
+ID: 72, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: DAIRY, Electrical features: []
+Path is: Station 72. x-1293 y-303 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 94. x-3512 y-2582 -> Station 58. x-3815 y-2440
+Length of whole path is: 8115.798333085905
+
+ID of trainset 20
+Locomotive 20
+ID: 149, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 153, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 148, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 150, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 152, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 151, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 147, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 154, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 7. x-325 y-2393 -> Station 56. x-903 y-2470 -> Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 17. x-601 y-2170 -> Station 57. x-241 y-2560 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 38. x-259 y-3058 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306
+Length of whole path is: 8039.794831751653
+
+ID of trainset 4
+Locomotive 4
+ID: 24, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 26, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 23, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 21, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 22, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 25, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 27, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 28, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 29, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 7. x-325 y-2393 -> Station 56. x-903 y-2470 -> Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 38. x-259 y-3058 -> Station 57. x-241 y-2560 -> Station 17. x-601 y-2170 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 7582.570907136927
+
+ID of trainset 12
+Locomotive 12
+ID: 82, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 83, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 86, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 85, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 80, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 84, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 88, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 81, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 87, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 50. x-3912 y-460 -> Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 5078.464197284593
+
+ID of trainset 9
+Locomotive 9
+ID: 59, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 62, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 57, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 58, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 61, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 60, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 21. x-2781 y-779 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029 -> Station 49. x-953 y-586 -> Station 15. x-640 y-413 -> Station 51. x-181 y-758 -> Station 46. x-50 y-618
+Length of whole path is: 3633.477654928429
+
+ID of trainset 7
+Locomotive 7
+ID: 50, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 45, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 46, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 44, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 49, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 47, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 48, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 43, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 40. x-3676 y-1332 -> Station 39. x-3645 y-1009 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029
+Length of whole path is: 3365.5931490617513
+
+ID of trainset 13
+Locomotive 13
+ID: 89, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 93, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 90, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 96, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 91, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 95, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 92, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 94, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 26. x-171 y-3571 -> Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846
+Length of whole path is: 3049.6328756187804
+
+ID of trainset 16
+Locomotive 16
+ID: 115, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 118, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 117, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 122, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 119, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 120, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 116, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 121, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 5. x-3897 y-226 -> Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306
+Length of whole path is: 2856.852705950581
+
+ID of trainset 6
+Locomotive 6
+ID: 42, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: PROPANE, Volume of gas: 25450.473378804847
+ID: 37, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: AMMONIA, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 38, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: DYNAMITE, Security level: ULTRAHIGH
+ID: 39, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: MEAT, Electrical features: [VOLTAGEMONITORING, VENTILATION]
+ID: 40, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: PHARMACEUTICAL, Electrical features: [VOLTAGEMONITORING, COMMUNICATIONDEVICES]
+ID: 41, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 71. x-71 y-3820 -> Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780
+Length of whole path is: 2846.2062698523873
+
+ID of trainset 19
+Locomotive 19
+ID: 144, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 146, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 141, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 142, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 145, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 140, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 143, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+Path is: Station 36. x-2636 y-2343 -> Station 84. x-2300 y-2745 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 2645.8242567377515
+
+ID of trainset 23
+Locomotive 23
+ID: 172, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 175, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 176, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 177, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 174, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 173, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 178, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 89. x-1797 y-1426 -> Station 67. x-2039 y-1034 -> Station 83. x-2404 y-611 -> Station 13. x-2908 y-413 -> Station 100. x-3467 y-624 -> Station 18. x-3635 y-372
+Length of whole path is: 2461.2502129077384
+
+ID of trainset 8
+Locomotive 8
+ID: 51, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 52, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 54, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 53, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 55, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 56, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 25. x-3434 y-2972 -> Station 81. x-3002 y-3363 -> Station 95. x-2860 y-3372 -> Station 66. x-2542 y-3846 -> Station 80. x-2370 y-3780 -> Station 68. x-1779 y-3785 -> Station 85. x-1522 y-3620
+Length of whole path is: 2376.401622615774
+
+ID of trainset 22
+Locomotive 22
+ID: 167, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 163, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 164, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 169, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 166, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 165, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 168, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 170, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 171, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 13. x-2908 y-413 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 54. x-1672 y-151 -> Station 42. x-1998 y-46
+Length of whole path is: 2371.7436443976453
+
+ID of trainset 2
+Locomotive 2
+ID: 11, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 9, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 13, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 10, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 8, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 12, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 14, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 1870.4473038430501
+
+ID of trainset 15
+Locomotive 15
+ID: 108, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 110, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 109, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 114, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 107, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 105, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 111, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 112, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 113, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 106, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 29. x-2362 y-2306 -> Station 99. x-2444 y-1942 -> Station 33. x-2456 y-1399 -> Station 12. x-2699 y-994 -> Station 16. x-3149 y-879
+Length of whole path is: 1853.0237023804307
+
+ID of trainset 3
+Locomotive 3
+ID: 15, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: BUTANE, Volume of gas: 0.0
+ID: 19, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 17, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: DAIRY, Electrical features: [COOLING, VENTILATION]
+ID: 16, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: SOLIDSTEEL, Type of breaks: ELECTRICBRAKES
+ID: 18, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: MILK, Volume of liquid: 73.7864077669903
+ID: 20, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: HYDRAULICBREAKS
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 21
+Locomotive 21
+ID: 162, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 156, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 157, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 160, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 161, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 158, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 155, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 159, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 14
+Locomotive 14
+ID: 97, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 102, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 104, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 98, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 99, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 103, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 100, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 101, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 23. x-3797 y-640 -> Station 100. x-3467 y-624 -> Station 16. x-3149 y-879
+Length of whole path is: 738.001438895225
+
+ID of trainset 11
+Locomotive 11
+ID: 77, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 74, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 76, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 73, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 75, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 79, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 78, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 7. x-325 y-2393
+Length of whole path is: 687.9580991595685
+
+ID of trainset 17
+Locomotive 17
+ID: 128, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: PROPANE, Volume of gas: 0.0
+ID: 131, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: HAZARDOUS, Emergency system?: false
+ID: 123, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: OLIVEOIL, Volume of liquid: 0.0
+ID: 126, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: MILK, Volume of liquid: 0.0
+ID: 125, Name: ExplosivesCar, Loaded -> false, Gross weight: 19, Type of cargo: null, Security level: LOW
+ID: 130, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: ETHANE, Volume of gas: 20527.13687494868
+ID: 127, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: MEAT, Electrical features: [LIGHTING]
+ID: 124, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: INCONEL, Labels -> false
+ID: 132, Name: LiquidToxicCar, Loaded -> true, Gross weight: 51, Type of toxic liquid: BENZENE, Volume of toxic liquid: 19.318181818181817, Material of car: ALUMINIUM, Labels -> true
+ID: 129, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 81. x-3002 y-3363 -> Station 25. x-3434 y-2972
+Length of whole path is: 582.6705758831486
+
+ID of trainset 18
+Locomotive 18
+ID: 133, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 136, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 135, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 138, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 134, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 137, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 139, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 87. x-1841 y-1881 -> Station 89. x-1797 y-1426
+Length of whole path is: 457.1225218691374
+
+ID of trainset 1
+Locomotive 1
+ID: 1, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 2, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 5, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 7, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 4, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 3, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 6, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 9. x-3637 y-3645 -> Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+ID of trainset 5
+Locomotive 5
+ID: 32, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 30, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 33, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 35, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 31, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 34, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 36, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 9. x-3637 y-3645 -> Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+Current time: 20:23:04
+ID of trainset 24
+Locomotive 24
+ID: 179, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: GASOLINE, Volume of liquid: 0.0
+ID: 183, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: NORWEGIANCOUPLER
+ID: 184, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 182, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: METHANE, Volume of gas: 18402.64998159735
+ID: 181, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: CHLORINE, Volume of toxic liquid: 0.0, Material of car: ALUMINIUM, Labels -> false
+ID: 180, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: ELECTRICBRAKES
+Path is: Station 44. x-993 y-1268 -> Station 11. x-1219 y-1029 -> Station 3. x-1080 y-1056 -> Station 49. x-953 y-586 -> Station 72. x-1293 y-303 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 4. x-1967 y-2503 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 81. x-3002 y-3363
+Length of whole path is: 9120.798692995824
+
+ID of trainset 25
+Locomotive 25
+ID: 190, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 185, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 189, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 191, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 186, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 187, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 192, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 188, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 15. x-640 y-413 -> Station 49. x-953 y-586 -> Station 11. x-1219 y-1029 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 43. x-3469 y-2668
+Length of whole path is: 9055.412437212457
+
+ID of trainset 10
+Locomotive 10
+ID: 66, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: RADIOACTIVE, Emergency system?: false
+ID: 63, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: RUSSIANCOUPLER
+ID: 68, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 70, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 64, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: CASTIRON, Type of breaks: AIRBREAKS
+ID: 67, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 71, Name: BasicCar, Loaded -> true, Gross weight: 46, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 65, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: PETN, Security level: HIGH
+ID: 69, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: C4, Security level: ULTRAHIGH
+ID: 72, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: DAIRY, Electrical features: []
+Path is: Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 94. x-3512 y-2582 -> Station 58. x-3815 y-2440
+Length of whole path is: 8115.798333085905
+
+ID of trainset 20
+Locomotive 20
+ID: 149, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 153, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 148, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 150, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 152, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 151, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 147, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 154, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 7. x-325 y-2393 -> Station 56. x-903 y-2470 -> Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 17. x-601 y-2170 -> Station 57. x-241 y-2560 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 38. x-259 y-3058 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306
+Length of whole path is: 8039.794831751653
+
+ID of trainset 4
+Locomotive 4
+ID: 24, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 26, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 23, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 21, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 22, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 25, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 27, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 28, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 29, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 56. x-903 y-2470 -> Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 38. x-259 y-3058 -> Station 57. x-241 y-2560 -> Station 17. x-601 y-2170 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 7582.570907136927
+
+ID of trainset 12
+Locomotive 12
+ID: 82, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 83, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 86, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 85, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 80, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 84, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 88, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 81, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 87, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 5078.464197284593
+
+ID of trainset 9
+Locomotive 9
+ID: 59, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 62, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 57, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 58, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 61, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 60, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029 -> Station 49. x-953 y-586 -> Station 15. x-640 y-413 -> Station 51. x-181 y-758 -> Station 46. x-50 y-618
+Length of whole path is: 3633.477654928429
+
+ID of trainset 7
+Locomotive 7
+ID: 50, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 45, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 46, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 44, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 49, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 47, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 48, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 43, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 39. x-3645 y-1009 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029
+Length of whole path is: 3365.5931490617513
+
+ID of trainset 13
+Locomotive 13
+ID: 89, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 93, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 90, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 96, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 91, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 95, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 92, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 94, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846
+Length of whole path is: 3049.6328756187804
+
+ID of trainset 16
+Locomotive 16
+ID: 115, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 118, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 117, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 122, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 119, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 120, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 116, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 121, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306
+Length of whole path is: 2856.852705950581
+
+ID of trainset 6
+Locomotive 6
+ID: 42, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: PROPANE, Volume of gas: 25450.473378804847
+ID: 37, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: AMMONIA, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 38, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: DYNAMITE, Security level: ULTRAHIGH
+ID: 39, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: MEAT, Electrical features: [VOLTAGEMONITORING, VENTILATION]
+ID: 40, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: PHARMACEUTICAL, Electrical features: [VOLTAGEMONITORING, COMMUNICATIONDEVICES]
+ID: 41, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780
+Length of whole path is: 2846.2062698523873
+
+ID of trainset 19
+Locomotive 19
+ID: 144, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 146, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 141, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 142, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 145, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 140, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 143, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+Path is: Station 84. x-2300 y-2745 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 2645.8242567377515
+
+ID of trainset 23
+Locomotive 23
+ID: 172, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 175, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 176, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 177, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 174, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 173, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 178, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 67. x-2039 y-1034 -> Station 83. x-2404 y-611 -> Station 13. x-2908 y-413 -> Station 100. x-3467 y-624 -> Station 18. x-3635 y-372
+Length of whole path is: 2461.2502129077384
+
+ID of trainset 8
+Locomotive 8
+ID: 51, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 52, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 54, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 53, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 55, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 56, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 81. x-3002 y-3363 -> Station 95. x-2860 y-3372 -> Station 66. x-2542 y-3846 -> Station 80. x-2370 y-3780 -> Station 68. x-1779 y-3785 -> Station 85. x-1522 y-3620
+Length of whole path is: 2376.401622615774
+
+ID of trainset 22
+Locomotive 22
+ID: 167, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 163, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 164, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 169, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 166, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 165, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 168, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 170, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 171, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 54. x-1672 y-151 -> Station 42. x-1998 y-46
+Length of whole path is: 2371.7436443976453
+
+ID of trainset 2
+Locomotive 2
+ID: 11, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 9, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 13, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 10, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 8, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 12, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 14, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 1870.4473038430501
+
+ID of trainset 15
+Locomotive 15
+ID: 108, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 110, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 109, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 114, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 107, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 105, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 111, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 112, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 113, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 106, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 99. x-2444 y-1942 -> Station 33. x-2456 y-1399 -> Station 12. x-2699 y-994 -> Station 16. x-3149 y-879
+Length of whole path is: 1853.0237023804307
+
+ID of trainset 3
+Locomotive 3
+ID: 15, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: BUTANE, Volume of gas: 0.0
+ID: 19, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 17, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: DAIRY, Electrical features: [COOLING, VENTILATION]
+ID: 16, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: SOLIDSTEEL, Type of breaks: ELECTRICBRAKES
+ID: 18, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: MILK, Volume of liquid: 73.7864077669903
+ID: 20, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: HYDRAULICBREAKS
+Path is: Station 64. x-162 y-2143 -> Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 21
+Locomotive 21
+ID: 162, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 156, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 157, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 160, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 161, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 158, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 155, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 159, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 14
+Locomotive 14
+ID: 97, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 102, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 104, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 98, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 99, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 103, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 100, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 101, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 100. x-3467 y-624 -> Station 16. x-3149 y-879
+Length of whole path is: 738.001438895225
+
+ID of trainset 11
+Locomotive 11
+ID: 77, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 74, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 76, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 73, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 75, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 79, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 78, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 7. x-325 y-2393
+Length of whole path is: 687.9580991595685
+
+ID of trainset 17
+Locomotive 17
+ID: 128, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: PROPANE, Volume of gas: 0.0
+ID: 131, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: HAZARDOUS, Emergency system?: false
+ID: 123, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: OLIVEOIL, Volume of liquid: 0.0
+ID: 126, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: MILK, Volume of liquid: 0.0
+ID: 125, Name: ExplosivesCar, Loaded -> false, Gross weight: 19, Type of cargo: null, Security level: LOW
+ID: 130, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: ETHANE, Volume of gas: 20527.13687494868
+ID: 127, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: MEAT, Electrical features: [LIGHTING]
+ID: 124, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: INCONEL, Labels -> false
+ID: 132, Name: LiquidToxicCar, Loaded -> true, Gross weight: 51, Type of toxic liquid: BENZENE, Volume of toxic liquid: 19.318181818181817, Material of car: ALUMINIUM, Labels -> true
+ID: 129, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 81. x-3002 y-3363 -> Station 25. x-3434 y-2972
+Length of whole path is: 582.6705758831486
+
+ID of trainset 18
+Locomotive 18
+ID: 133, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 136, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 135, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 138, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 134, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 137, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 139, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 89. x-1797 y-1426
+Length of whole path is: 457.1225218691374
+
+ID of trainset 1
+Locomotive 1
+ID: 1, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 2, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 5, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 7, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 4, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 3, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 6, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+ID of trainset 5
+Locomotive 5
+ID: 32, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 30, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 33, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 35, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 31, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 34, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 36, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 9. x-3637 y-3645 -> Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+Current time: 20:23:09
+ID of trainset 24
+Locomotive 24
+ID: 179, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: GASOLINE, Volume of liquid: 0.0
+ID: 183, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: NORWEGIANCOUPLER
+ID: 184, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 182, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: METHANE, Volume of gas: 18402.64998159735
+ID: 181, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: CHLORINE, Volume of toxic liquid: 0.0, Material of car: ALUMINIUM, Labels -> false
+ID: 180, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: ELECTRICBRAKES
+Path is: Station 11. x-1219 y-1029 -> Station 3. x-1080 y-1056 -> Station 49. x-953 y-586 -> Station 72. x-1293 y-303 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 4. x-1967 y-2503 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 81. x-3002 y-3363
+Length of whole path is: 9120.798692995824
+
+ID of trainset 25
+Locomotive 25
+ID: 190, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 185, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 189, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 191, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 186, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 187, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 192, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 188, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 49. x-953 y-586 -> Station 11. x-1219 y-1029 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 43. x-3469 y-2668
+Length of whole path is: 9055.412437212457
+
+ID of trainset 10
+Locomotive 10
+ID: 66, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: RADIOACTIVE, Emergency system?: false
+ID: 63, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: RUSSIANCOUPLER
+ID: 68, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 70, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 64, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: CASTIRON, Type of breaks: AIRBREAKS
+ID: 67, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 71, Name: BasicCar, Loaded -> true, Gross weight: 46, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 65, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: PETN, Security level: HIGH
+ID: 69, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: C4, Security level: ULTRAHIGH
+ID: 72, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: DAIRY, Electrical features: []
+Path is: Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 94. x-3512 y-2582 -> Station 58. x-3815 y-2440
+Length of whole path is: 8115.798333085905
+
+ID of trainset 20
+Locomotive 20
+ID: 149, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 153, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 148, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 150, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 152, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 151, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 147, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 154, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 7. x-325 y-2393 -> Station 56. x-903 y-2470 -> Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 17. x-601 y-2170 -> Station 57. x-241 y-2560 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 38. x-259 y-3058 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306
+Length of whole path is: 8039.794831751653
+
+ID of trainset 4
+Locomotive 4
+ID: 24, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 26, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 23, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 21, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 22, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 25, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 27, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 28, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 29, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 38. x-259 y-3058 -> Station 57. x-241 y-2560 -> Station 17. x-601 y-2170 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 7582.570907136927
+
+ID of trainset 12
+Locomotive 12
+ID: 82, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 83, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 86, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 85, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 80, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 84, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 88, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 81, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 87, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 5078.464197284593
+
+ID of trainset 9
+Locomotive 9
+ID: 59, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 62, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 57, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 58, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 61, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 60, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029 -> Station 49. x-953 y-586 -> Station 15. x-640 y-413 -> Station 51. x-181 y-758 -> Station 46. x-50 y-618
+Length of whole path is: 3633.477654928429
+
+ID of trainset 7
+Locomotive 7
+ID: 50, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 45, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 46, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 44, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 49, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 47, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 48, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 43, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029
+Length of whole path is: 3365.5931490617513
+
+ID of trainset 13
+Locomotive 13
+ID: 89, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 93, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 90, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 96, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 91, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 95, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 92, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 94, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846
+Length of whole path is: 3049.6328756187804
+
+ID of trainset 16
+Locomotive 16
+ID: 115, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 118, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 117, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 122, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 119, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 120, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 116, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 121, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306
+Length of whole path is: 2856.852705950581
+
+ID of trainset 6
+Locomotive 6
+ID: 42, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: PROPANE, Volume of gas: 25450.473378804847
+ID: 37, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: AMMONIA, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 38, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: DYNAMITE, Security level: ULTRAHIGH
+ID: 39, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: MEAT, Electrical features: [VOLTAGEMONITORING, VENTILATION]
+ID: 40, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: PHARMACEUTICAL, Electrical features: [VOLTAGEMONITORING, COMMUNICATIONDEVICES]
+ID: 41, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780
+Length of whole path is: 2846.2062698523873
+
+ID of trainset 19
+Locomotive 19
+ID: 144, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 146, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 141, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 142, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 145, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 140, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 143, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+Path is: Station 84. x-2300 y-2745 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 2645.8242567377515
+
+ID of trainset 23
+Locomotive 23
+ID: 172, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 175, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 176, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 177, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 174, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 173, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 178, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 67. x-2039 y-1034 -> Station 83. x-2404 y-611 -> Station 13. x-2908 y-413 -> Station 100. x-3467 y-624 -> Station 18. x-3635 y-372
+Length of whole path is: 2461.2502129077384
+
+ID of trainset 8
+Locomotive 8
+ID: 51, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 52, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 54, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 53, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 55, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 56, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 95. x-2860 y-3372 -> Station 66. x-2542 y-3846 -> Station 80. x-2370 y-3780 -> Station 68. x-1779 y-3785 -> Station 85. x-1522 y-3620
+Length of whole path is: 2376.401622615774
+
+ID of trainset 22
+Locomotive 22
+ID: 167, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 163, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 164, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 169, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 166, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 165, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 168, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 170, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 171, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 54. x-1672 y-151 -> Station 42. x-1998 y-46
+Length of whole path is: 2371.7436443976453
+
+ID of trainset 2
+Locomotive 2
+ID: 11, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 9, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 13, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 10, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 8, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 12, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 14, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 1870.4473038430501
+
+ID of trainset 15
+Locomotive 15
+ID: 108, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 110, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 109, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 114, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 107, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 105, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 111, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 112, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 113, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 106, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 33. x-2456 y-1399 -> Station 12. x-2699 y-994 -> Station 16. x-3149 y-879
+Length of whole path is: 1853.0237023804307
+
+ID of trainset 3
+Locomotive 3
+ID: 15, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: BUTANE, Volume of gas: 0.0
+ID: 19, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 17, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: DAIRY, Electrical features: [COOLING, VENTILATION]
+ID: 16, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: SOLIDSTEEL, Type of breaks: ELECTRICBRAKES
+ID: 18, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: MILK, Volume of liquid: 73.7864077669903
+ID: 20, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: HYDRAULICBREAKS
+Path is: Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 21
+Locomotive 21
+ID: 162, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 156, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 157, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 160, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 161, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 158, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 155, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 159, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+Path is: Station 64. x-162 y-2143 -> Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 14
+Locomotive 14
+ID: 97, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 102, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 104, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 98, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 99, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 103, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 100, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 101, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 16. x-3149 y-879
+Length of whole path is: 738.001438895225
+
+ID of trainset 11
+Locomotive 11
+ID: 77, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 74, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 76, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 73, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 75, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 79, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 78, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 77. x-26 y-1778 -> Station 64. x-162 y-2143 -> Station 7. x-325 y-2393
+Length of whole path is: 687.9580991595685
+
+ID of trainset 17
+Locomotive 17
+ID: 128, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: PROPANE, Volume of gas: 0.0
+ID: 131, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: HAZARDOUS, Emergency system?: false
+ID: 123, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: OLIVEOIL, Volume of liquid: 0.0
+ID: 126, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: MILK, Volume of liquid: 0.0
+ID: 125, Name: ExplosivesCar, Loaded -> false, Gross weight: 19, Type of cargo: null, Security level: LOW
+ID: 130, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: ETHANE, Volume of gas: 20527.13687494868
+ID: 127, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: MEAT, Electrical features: [LIGHTING]
+ID: 124, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: INCONEL, Labels -> false
+ID: 132, Name: LiquidToxicCar, Loaded -> true, Gross weight: 51, Type of toxic liquid: BENZENE, Volume of toxic liquid: 19.318181818181817, Material of car: ALUMINIUM, Labels -> true
+ID: 129, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 81. x-3002 y-3363 -> Station 25. x-3434 y-2972
+Length of whole path is: 582.6705758831486
+
+ID of trainset 18
+Locomotive 18
+ID: 133, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 136, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 135, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 138, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 134, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 137, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 139, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 89. x-1797 y-1426
+Length of whole path is: 457.1225218691374
+
+ID of trainset 1
+Locomotive 1
+ID: 1, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 2, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 5, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 7, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 4, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 3, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 6, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+ID of trainset 5
+Locomotive 5
+ID: 32, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 30, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 33, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 35, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 31, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 34, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 36, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: ended. Current station: Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+Current time: 20:23:14
+ID of trainset 24
+Locomotive 24
+ID: 179, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: GASOLINE, Volume of liquid: 0.0
+ID: 183, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: NORWEGIANCOUPLER
+ID: 184, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 182, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: METHANE, Volume of gas: 18402.64998159735
+ID: 181, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: CHLORINE, Volume of toxic liquid: 0.0, Material of car: ALUMINIUM, Labels -> false
+ID: 180, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: ELECTRICBRAKES
+Path is: Station 3. x-1080 y-1056 -> Station 49. x-953 y-586 -> Station 72. x-1293 y-303 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 4. x-1967 y-2503 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 81. x-3002 y-3363
+Length of whole path is: 9120.798692995824
+
+ID of trainset 25
+Locomotive 25
+ID: 190, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 185, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 189, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 191, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 186, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 187, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 192, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 188, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 49. x-953 y-586 -> Station 11. x-1219 y-1029 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 43. x-3469 y-2668
+Length of whole path is: 9055.412437212457
+
+ID of trainset 10
+Locomotive 10
+ID: 66, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: RADIOACTIVE, Emergency system?: false
+ID: 63, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: RUSSIANCOUPLER
+ID: 68, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 70, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 64, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: CASTIRON, Type of breaks: AIRBREAKS
+ID: 67, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 71, Name: BasicCar, Loaded -> true, Gross weight: 46, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 65, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: PETN, Security level: HIGH
+ID: 69, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: C4, Security level: ULTRAHIGH
+ID: 72, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: DAIRY, Electrical features: []
+Path is: Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 94. x-3512 y-2582 -> Station 58. x-3815 y-2440
+Length of whole path is: 8115.798333085905
+
+ID of trainset 20
+Locomotive 20
+ID: 149, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 153, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 148, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 150, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 152, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 151, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 147, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 154, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 56. x-903 y-2470 -> Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 17. x-601 y-2170 -> Station 57. x-241 y-2560 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 38. x-259 y-3058 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306
+Length of whole path is: 8039.794831751653
+
+ID of trainset 4
+Locomotive 4
+ID: 24, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 26, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 23, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 21, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 22, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 25, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 27, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 28, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 29, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 78. x-771 y-2399 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 38. x-259 y-3058 -> Station 57. x-241 y-2560 -> Station 17. x-601 y-2170 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 7582.570907136927
+
+ID of trainset 12
+Locomotive 12
+ID: 82, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 83, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 86, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 85, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 80, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 84, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 88, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 81, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 87, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 5078.464197284593
+
+ID of trainset 9
+Locomotive 9
+ID: 59, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 62, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 57, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 58, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 61, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 60, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029 -> Station 49. x-953 y-586 -> Station 15. x-640 y-413 -> Station 51. x-181 y-758 -> Station 46. x-50 y-618
+Length of whole path is: 3633.477654928429
+
+ID of trainset 7
+Locomotive 7
+ID: 50, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 45, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 46, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 44, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 49, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 47, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 48, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 43, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029
+Length of whole path is: 3365.5931490617513
+
+ID of trainset 13
+Locomotive 13
+ID: 89, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 93, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 90, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 96, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 91, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 95, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 92, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 94, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 96. x-618 y-3939 -> Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846
+Length of whole path is: 3049.6328756187804
+
+ID of trainset 16
+Locomotive 16
+ID: 115, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 118, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 117, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 122, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 119, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 120, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 116, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 121, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306
+Length of whole path is: 2856.852705950581
+
+ID of trainset 6
+Locomotive 6
+ID: 42, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: PROPANE, Volume of gas: 25450.473378804847
+ID: 37, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: AMMONIA, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 38, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: DYNAMITE, Security level: ULTRAHIGH
+ID: 39, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: MEAT, Electrical features: [VOLTAGEMONITORING, VENTILATION]
+ID: 40, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: PHARMACEUTICAL, Electrical features: [VOLTAGEMONITORING, COMMUNICATIONDEVICES]
+ID: 41, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780
+Length of whole path is: 2846.2062698523873
+
+ID of trainset 19
+Locomotive 19
+ID: 144, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 146, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 141, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 142, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 145, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 140, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 143, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+Path is: Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 2645.8242567377515
+
+ID of trainset 23
+Locomotive 23
+ID: 172, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 175, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 176, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 177, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 174, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 173, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 178, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 83. x-2404 y-611 -> Station 13. x-2908 y-413 -> Station 100. x-3467 y-624 -> Station 18. x-3635 y-372
+Length of whole path is: 2461.2502129077384
+
+ID of trainset 8
+Locomotive 8
+ID: 51, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 52, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 54, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 53, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 55, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 56, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 95. x-2860 y-3372 -> Station 66. x-2542 y-3846 -> Station 80. x-2370 y-3780 -> Station 68. x-1779 y-3785 -> Station 85. x-1522 y-3620
+Length of whole path is: 2376.401622615774
+
+ID of trainset 22
+Locomotive 22
+ID: 167, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 163, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 164, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 169, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 166, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 165, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 168, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 170, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 171, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 54. x-1672 y-151 -> Station 42. x-1998 y-46
+Length of whole path is: 2371.7436443976453
+
+ID of trainset 2
+Locomotive 2
+ID: 11, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 9, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 13, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 10, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 8, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 12, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 14, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 1870.4473038430501
+
+ID of trainset 15
+Locomotive 15
+ID: 108, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 110, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 109, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 114, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 107, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 105, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 111, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 112, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 113, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 106, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 33. x-2456 y-1399 -> Station 12. x-2699 y-994 -> Station 16. x-3149 y-879
+Length of whole path is: 1853.0237023804307
+
+ID of trainset 3
+Locomotive 3
+ID: 15, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: BUTANE, Volume of gas: 0.0
+ID: 19, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 17, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: DAIRY, Electrical features: [COOLING, VENTILATION]
+ID: 16, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: SOLIDSTEEL, Type of breaks: ELECTRICBRAKES
+ID: 18, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: MILK, Volume of liquid: 73.7864077669903
+ID: 20, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: HYDRAULICBREAKS
+Path is: Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 21
+Locomotive 21
+ID: 162, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 156, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 157, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 160, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 161, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 158, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 155, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 159, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+Path is: Station 64. x-162 y-2143 -> Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 14
+Locomotive 14
+ID: 97, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 102, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 104, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 98, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 99, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 103, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 100, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 101, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 16. x-3149 y-879
+Length of whole path is: 738.001438895225
+
+ID of trainset 11
+Locomotive 11
+ID: 77, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 74, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 76, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 73, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 75, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 79, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 78, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 64. x-162 y-2143 -> Station 7. x-325 y-2393
+Length of whole path is: 687.9580991595685
+
+ID of trainset 17
+Locomotive 17
+ID: 128, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: PROPANE, Volume of gas: 0.0
+ID: 131, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: HAZARDOUS, Emergency system?: false
+ID: 123, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: OLIVEOIL, Volume of liquid: 0.0
+ID: 126, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: MILK, Volume of liquid: 0.0
+ID: 125, Name: ExplosivesCar, Loaded -> false, Gross weight: 19, Type of cargo: null, Security level: LOW
+ID: 130, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: ETHANE, Volume of gas: 20527.13687494868
+ID: 127, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: MEAT, Electrical features: [LIGHTING]
+ID: 124, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: INCONEL, Labels -> false
+ID: 132, Name: LiquidToxicCar, Loaded -> true, Gross weight: 51, Type of toxic liquid: BENZENE, Volume of toxic liquid: 19.318181818181817, Material of car: ALUMINIUM, Labels -> true
+ID: 129, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: ended. Current station: Station 25. x-3434 y-2972
+Length of whole path is: 582.6705758831486
+
+ID of trainset 18
+Locomotive 18
+ID: 133, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 136, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 135, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 138, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 134, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 137, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 139, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 89. x-1797 y-1426
+Length of whole path is: 457.1225218691374
+
+ID of trainset 1
+Locomotive 1
+ID: 1, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 2, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 5, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 7, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 4, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 3, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 6, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+ID of trainset 5
+Locomotive 5
+ID: 32, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 30, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 33, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 35, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 31, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 34, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 36, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: ended. Current station: Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+Current time: 20:23:19
+ID of trainset 24
+Locomotive 24
+ID: 179, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: GASOLINE, Volume of liquid: 0.0
+ID: 183, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: NORWEGIANCOUPLER
+ID: 184, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 182, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: METHANE, Volume of gas: 18402.64998159735
+ID: 181, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: CHLORINE, Volume of toxic liquid: 0.0, Material of car: ALUMINIUM, Labels -> false
+ID: 180, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: ELECTRICBRAKES
+Path is: Station 3. x-1080 y-1056 -> Station 49. x-953 y-586 -> Station 72. x-1293 y-303 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 4. x-1967 y-2503 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 81. x-3002 y-3363
+Length of whole path is: 9120.798692995824
+
+ID of trainset 25
+Locomotive 25
+ID: 190, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 185, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 189, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 191, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 186, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 187, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 192, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 188, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 11. x-1219 y-1029 -> Station 62. x-1633 y-631 -> Station 67. x-2039 y-1034 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 43. x-3469 y-2668
+Length of whole path is: 9055.412437212457
+
+ID of trainset 10
+Locomotive 10
+ID: 66, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: RADIOACTIVE, Emergency system?: false
+ID: 63, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: RUSSIANCOUPLER
+ID: 68, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 70, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: BUFFERSANDCHAIN
+ID: 64, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: CASTIRON, Type of breaks: AIRBREAKS
+ID: 67, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 71, Name: BasicCar, Loaded -> true, Gross weight: 46, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 65, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: PETN, Security level: HIGH
+ID: 69, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: C4, Security level: ULTRAHIGH
+ID: 72, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: DAIRY, Electrical features: []
+Path is: Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 36. x-2636 y-2343 -> Station 29. x-2362 y-2306 -> Station 84. x-2300 y-2745 -> Station 53. x-2116 y-2835 -> Station 4. x-1967 y-2503 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846 -> Station 95. x-2860 y-3372 -> Station 90. x-2959 y-3102 -> Station 25. x-3434 y-2972 -> Station 94. x-3512 y-2582 -> Station 58. x-3815 y-2440
+Length of whole path is: 8115.798333085905
+
+ID of trainset 20
+Locomotive 20
+ID: 149, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 153, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 148, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 150, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 152, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 151, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 147, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 154, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 73. x-982 y-2336 -> Station 78. x-771 y-2399 -> Station 17. x-601 y-2170 -> Station 57. x-241 y-2560 -> Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 38. x-259 y-3058 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 53. x-2116 y-2835 -> Station 29. x-2362 y-2306
+Length of whole path is: 8039.794831751653
+
+ID of trainset 4
+Locomotive 4
+ID: 24, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 26, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 23, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 21, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 22, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 25, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 27, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 28, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 29, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 47. x-625 y-2904 -> Station 41. x-258 y-2668 -> Station 38. x-259 y-3058 -> Station 57. x-241 y-2560 -> Station 17. x-601 y-2170 -> Station 64. x-162 y-2143 -> Station 19. x-102 y-2738 -> Station 93. x-115 y-2964 -> Station 82. x-282 y-3456 -> Station 96. x-618 y-3939 -> Station 69. x-938 y-3450 -> Station 91. x-1332 y-3386 -> Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 7582.570907136927
+
+ID of trainset 12
+Locomotive 12
+ID: 82, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 83, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 86, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 85, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 80, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 84, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 88, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 81, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 87, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 100. x-3467 y-624 -> Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306 -> Station 86. x-1918 y-2635 -> Station 63. x-1715 y-2771 -> Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 5078.464197284593
+
+ID of trainset 9
+Locomotive 9
+ID: 59, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 62, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 57, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 58, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 61, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 60, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029 -> Station 49. x-953 y-586 -> Station 15. x-640 y-413 -> Station 51. x-181 y-758 -> Station 46. x-50 y-618
+Length of whole path is: 3633.477654928429
+
+ID of trainset 7
+Locomotive 7
+ID: 50, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 45, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 46, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 44, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 49, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 47, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 48, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 43, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 12. x-2699 y-994 -> Station 83. x-2404 y-611 -> Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 11. x-1219 y-1029
+Length of whole path is: 3365.5931490617513
+
+ID of trainset 13
+Locomotive 13
+ID: 89, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 93, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 90, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 96, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 91, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 95, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 92, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 94, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 61. x-1047 y-3993 -> Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780 -> Station 66. x-2542 y-3846
+Length of whole path is: 3049.6328756187804
+
+ID of trainset 16
+Locomotive 16
+ID: 115, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 118, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 117, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+ID: 122, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 119, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 120, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 116, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 121, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 16. x-3149 y-879 -> Station 12. x-2699 y-994 -> Station 74. x-2420 y-1460 -> Station 99. x-2444 y-1942 -> Station 29. x-2362 y-2306
+Length of whole path is: 2856.852705950581
+
+ID of trainset 6
+Locomotive 6
+ID: 42, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: PROPANE, Volume of gas: 25450.473378804847
+ID: 37, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: AMMONIA, Volume of toxic liquid: 0.0, Material of car: STAINLESSSTEEL, Labels -> false
+ID: 38, Name: ExplosivesCar, Loaded -> true, Gross weight: 78, Type of cargo: DYNAMITE, Security level: ULTRAHIGH
+ID: 39, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: MEAT, Electrical features: [VOLTAGEMONITORING, VENTILATION]
+ID: 40, Name: RefrigeratedCar, Loaded -> true, Gross weight: 88, Type of products: PHARMACEUTICAL, Electrical features: [VOLTAGEMONITORING, COMMUNICATIONDEVICES]
+ID: 41, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: Station 8. x-1143 y-3613 -> Station 32. x-1672 y-3478 -> Station 68. x-1779 y-3785 -> Station 80. x-2370 y-3780
+Length of whole path is: 2846.2062698523873
+
+ID of trainset 19
+Locomotive 19
+ID: 144, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 146, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 141, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 142, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 145, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 140, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 143, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+Path is: Station 48. x-1736 y-3221 -> Station 1. x-1184 y-3385 -> Station 30. x-845 y-3766
+Length of whole path is: 2645.8242567377515
+
+ID of trainset 23
+Locomotive 23
+ID: 172, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> true
+ID: 175, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 176, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 177, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 174, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 173, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 178, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 13. x-2908 y-413 -> Station 100. x-3467 y-624 -> Station 18. x-3635 y-372
+Length of whole path is: 2461.2502129077384
+
+ID of trainset 8
+Locomotive 8
+ID: 51, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 52, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 54, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 53, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 55, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 56, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 66. x-2542 y-3846 -> Station 80. x-2370 y-3780 -> Station 68. x-1779 y-3785 -> Station 85. x-1522 y-3620
+Length of whole path is: 2376.401622615774
+
+ID of trainset 22
+Locomotive 22
+ID: 167, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 163, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 164, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 169, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 166, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 165, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 168, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 170, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+ID: 171, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 20. x-1901 y-937 -> Station 62. x-1633 y-631 -> Station 54. x-1672 y-151 -> Station 42. x-1998 y-46
+Length of whole path is: 2371.7436443976453
+
+ID of trainset 2
+Locomotive 2
+ID: 11, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 9, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 13, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 10, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 8, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 12, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 14, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 2, Quantity of people: 30, Weight of equipment: 16
+Path is: Station 48. x-1736 y-3221 -> Station 63. x-1715 y-2771
+Length of whole path is: 1870.4473038430501
+
+ID of trainset 15
+Locomotive 15
+ID: 108, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 110, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: PACKAGE, Has light inside -> false
+ID: 109, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 114, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 107, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 105, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 111, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> true
+ID: 112, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 113, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 106, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: Station 12. x-2699 y-994 -> Station 16. x-3149 y-879
+Length of whole path is: 1853.0237023804307
+
+ID of trainset 3
+Locomotive 3
+ID: 15, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: BUTANE, Volume of gas: 0.0
+ID: 19, Name: BasicCar, Loaded -> false, Gross weight: 18, Car length: 18, Type of coupler: JANNEYCOUPLER
+ID: 17, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: DAIRY, Electrical features: [COOLING, VENTILATION]
+ID: 16, Name: HeavyCar, Loaded -> false, Gross weight: 32, Type of wheels: SOLIDSTEEL, Type of breaks: ELECTRICBRAKES
+ID: 18, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: MILK, Volume of liquid: 73.7864077669903
+ID: 20, Name: HeavyCar, Loaded -> true, Gross weight: 134, Type of wheels: COMPOSITEMATERIALS, Type of breaks: HYDRAULICBREAKS
+Path is: ended. Current station: Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 21
+Locomotive 21
+ID: 162, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> true
+ID: 156, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 157, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 160, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 161, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 158, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+ID: 155, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 159, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: MAIL, Has light inside -> false
+Path is: Station 17. x-601 y-2170 -> Station 73. x-982 y-2336
+Length of whole path is: 1244.9356602652929
+
+ID of trainset 14
+Locomotive 14
+ID: 97, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 102, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 104, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 98, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> true
+ID: 99, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 103, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 100, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 101, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 16. x-3149 y-879
+Length of whole path is: 738.001438895225
+
+ID of trainset 11
+Locomotive 11
+ID: 77, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 74, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 76, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 73, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 75, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 79, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> false
+ID: 78, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: Station 64. x-162 y-2143 -> Station 7. x-325 y-2393
+Length of whole path is: 687.9580991595685
+
+ID of trainset 17
+Locomotive 17
+ID: 128, Name: GaseousCar, Loaded -> false, Gross weight: 7, Gas type: PROPANE, Volume of gas: 0.0
+ID: 131, Name: ToxicCar, Loaded -> false, Gross weight: 12, Type of toxic: HAZARDOUS, Emergency system?: false
+ID: 123, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: OLIVEOIL, Volume of liquid: 0.0
+ID: 126, Name: LiquidCar, Loaded -> false, Gross weight: 13, Type of liquid: MILK, Volume of liquid: 0.0
+ID: 125, Name: ExplosivesCar, Loaded -> false, Gross weight: 19, Type of cargo: null, Security level: LOW
+ID: 130, Name: GaseousCar, Loaded -> true, Gross weight: 27, Gas type: ETHANE, Volume of gas: 20527.13687494868
+ID: 127, Name: RefrigeratedCar, Loaded -> false, Gross weight: 29, Type of products: MEAT, Electrical features: [LIGHTING]
+ID: 124, Name: LiquidToxicCar, Loaded -> false, Gross weight: 34, Type of toxic liquid: BENZENE, Volume of toxic liquid: 0.0, Material of car: INCONEL, Labels -> false
+ID: 132, Name: LiquidToxicCar, Loaded -> true, Gross weight: 51, Type of toxic liquid: BENZENE, Volume of toxic liquid: 19.318181818181817, Material of car: ALUMINIUM, Labels -> true
+ID: 129, Name: LiquidCar, Loaded -> true, Gross weight: 89, Type of liquid: GASOLINE, Volume of liquid: 105.55555555555556
+Path is: ended. Current station: Station 25. x-3434 y-2972
+Length of whole path is: 582.6705758831486
+
+ID of trainset 18
+Locomotive 18
+ID: 133, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 136, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 135, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: PACKAGE, Has light inside -> true
+ID: 138, Name: PassengerCar, Loaded -> true, Gross weight: 44, Class of car: 2, Quantity of people: 80
+ID: 134, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 137, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 139, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 89. x-1797 y-1426
+Length of whole path is: 457.1225218691374
+
+ID of trainset 1
+Locomotive 1
+ID: 1, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 2, Quantity of people: 80
+ID: 2, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 5, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 7, Name: BaggageMailCar, Loaded -> true, Gross weight: 42, Type of cargo: BAGGAGE, Has light inside -> false
+ID: 4, Name: RestaurantCar, Loaded -> true, Gross weight: 56, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 3, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+ID: 6, Name: PostOfficeCar, Loaded -> true, Gross weight: 57, Quantity of workers: 10, Weight of furniture: 4, Tracking system -> true
+Path is: ended. Current station: Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
+ID of trainset 5
+Locomotive 5
+ID: 32, Name: BaggageMailCar, Loaded -> false, Gross weight: 28, Type of cargo: MAIL, Has light inside -> false
+ID: 30, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 33, Name: PostOfficeCar, Loaded -> false, Gross weight: 36, Quantity of workers: 0, Weight of furniture: 0, Tracking system -> false
+ID: 35, Name: PassengerCar, Loaded -> false, Gross weight: 36, Class of car: 1, Quantity of people: 40
+ID: 31, Name: RestaurantCar, Loaded -> false, Gross weight: 37, Level of restaurant: 1, Quantity of people: 10, Weight of equipment: 18
+ID: 34, Name: PassengerCar, Loaded -> true, Gross weight: 40, Class of car: 1, Quantity of people: 40
+ID: 36, Name: RestaurantCar, Loaded -> true, Gross weight: 52, Level of restaurant: 3, Quantity of people: 50, Weight of equipment: 10
+Path is: ended. Current station: Station 70. x-3323 y-3622
+Length of whole path is: 314.8412298286233
+
